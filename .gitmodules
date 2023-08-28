@@ -1,0 +1,11 @@
+[submodule "model/t5-base"]
+	path = model/t5-base
+	url = https://huggingface.co/t5-base
+
+[submodule "model/opus-mt-en-zh"]
+	path = model/opus-mt-en-zh
+	url = https://huggingface.co/Helsinki-NLP/opus-mt-en-zh
+
+[submodule "model/opus-mt-zh-en"]
+	path = model/opus-mt-zh-en
+	url = https://huggingface.co/Helsinki-NLP/opus-mt-zh-en
